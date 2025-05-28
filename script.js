@@ -1,4 +1,3 @@
-// function changeCounter() {
 let counter = document.getElementById("counter");
 let reset = document.getElementById("reset");
 let count = 0;
